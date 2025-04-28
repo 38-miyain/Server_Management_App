@@ -1,5 +1,6 @@
-# my work
+# Sever Mnagement Application
 
-## Server Mnagement and Monitoring(Now Working)
+##Languages and Framework used
+Languages: JavaScript, HTML, CSS
+Framework: React, Node.js. ChakraUI
 
-## setup ALVR on ubuntu20.04.06.LTS with metaquest2
