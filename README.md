@@ -2,5 +2,5 @@
 
 ## Languages and Framework used
 Languages: JavaScript, HTML, CSS
-Framework: React, Node.js. ChakraUI
+Framework: React, Node.js. MUI
 
