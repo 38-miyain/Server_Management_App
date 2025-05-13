@@ -24,10 +24,12 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: block;
+  justify-content: center;
+  background-color: #1b1b1b; /* テーマの背景色に合わせる */
 }
 
 h1 {
