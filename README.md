@@ -1,6 +1,6 @@
 # Sever Mnagement Application
 
 ## Languages and Framework used
-Languages: JavaScript, HTML, CSS
+Languages: JavaScript
 Framework: React, Node.js. MUI
 
