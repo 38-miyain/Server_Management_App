@@ -1,6 +1,11 @@
-# Sever Mnagement Application
+# Sever Management Application
 
-## Languages and Framework used
-Languages: JavaScript
-Framework: React, Node.js. ChakraUI
+## Overview
+
+This application is for monitoring and managing server usage (tasks, users, etc.)
+
+## Demo（In Preparation）
+
+
+## Setting up(In preparation)
 
